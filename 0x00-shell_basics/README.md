@@ -1,1 +1,1 @@
-My non empty readme
+Script for current working directory
