@@ -1,0 +1,1 @@
+Scripts describe shell permissions
